@@ -5,16 +5,6 @@ Diese Dateien sind für die Veröffentlichung über GitHub Pages vorbereitet:
 - `index.html` – Datenschutzerklärung
 - `style.css` – Gestaltung
 
-## Vor der Veröffentlichung unbedingt anpassen
-
-In `index.html` die Platzhalter ersetzen:
-
-- `[VOR- UND NACHNAME / UNTERNEHMENSNAME]`
-- `[STRASSE UND HAUSNUMMER]`
-- `[PLZ ORT]`
-- `[E-MAIL-ADRESSE]`
-- Angaben zum Datenschutzbeauftragten, falls vorhanden
-
 ## Wichtig: Text gilt für den beschriebenen Funktionsumfang
 
 Die Erklärung geht davon aus, dass die App:
