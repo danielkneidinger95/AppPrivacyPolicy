@@ -21,6 +21,5 @@ Sobald z. B. Firebase, Google Analytics for Firebase, Crashlytics, AdMob, Sentry
 
 ## GitHub Pages
 
-Für eine Projektseite kann dieses Verzeichnis z. B. unter `docs/` im Repository liegen. GitHub Pages kann daraus eine URL nach dem Schema `https://<account>.github.io/<repository>/` bereitstellen.
-
-Die URL der Datenschutzerklärung sollte in Google Play Console im Bereich für den Datenschutz bzw. App-Inhalte hinterlegt werden.
+Die Datenschutzerklärung ist mit folgender URL erreichbar:
+https://danielkneidinger95.github.io/AppPrivacyPolicy/ParkplatzMerker/
