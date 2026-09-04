@@ -1,3 +1,5 @@
 ﻿# AppPrivacyPolicy
 
-Dieses Repo enthält Datenschutzerklärungen für verschiedene Apps.
+Dieses Repo enthält Datenschutzerklärungen für folgende Apps:
+- Parkplatz Merker
+- Wo ist das?
