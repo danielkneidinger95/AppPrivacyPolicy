@@ -23,5 +23,4 @@ Sobald z. B. Firebase, Google Analytics for Firebase, Crashlytics, AdMob, Sentry
 ## GitHub Pages
 
 Die Datenschutzerklärung ist mit folgender URL erreichbar:
-
 https://danielkneidinger95.github.io/AppPrivacyPolicy/WoIstDas/

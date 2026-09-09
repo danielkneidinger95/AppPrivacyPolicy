@@ -24,5 +24,4 @@ Sobald beispielsweise Analytics, Crash-Reporting, Werbung, ein eigenes Backend, 
 ## GitHub Pages
 
 Die Datenschutzerklärung ist mit folgender URL erreichbar:
-
-Die konkrete Veröffentlichungs-URL für Tankkosten Tracker wird nach der Einrichtung der GitHub-Pages-Seite ergänzt.
+https://danielkneidinger95.github.io/AppPrivacyPolicy/TankkostenTracker/
