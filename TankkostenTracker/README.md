@@ -15,13 +15,21 @@ Die Erklärung beschreibt den aktuellen Funktionsumfang von Tankkosten Tracker. 
 - aus den Tankungsdaten Verbrauchs-, Kosten- und Kilometerkennzahlen berechnet,
 - Tankstellen und optionale Notizen als Bestandteil einer Tankung speichern kann,
 - keine Kamera-, Foto-, QR-Code- oder Standortfunktion verwendet,
-- keine Werbung und kein Analytics/Tracking integriert,
+- Google-AdMob-Werbebanner auf Android integriert,
 - keine Cloud-Synchronisation verwendet,
 - keine externen Karten- oder Navigationsdienste verwendet.
 
-Sobald beispielsweise Analytics, Crash-Reporting, Werbung, ein eigenes Backend, Cloud-Synchronisation, Foto-/Kamerafunktionen oder ein anderer externer Dienst eingebaut wird, muss die Datenschutzerklärung entsprechend erweitert werden.
+Die AdMob-Konfiguration verwendet im Repository zunächst Googles Test-App-ID und Test-Banner-ID. Vor einer produktiven Veröffentlichung müssen diese Werte durch die eigenen AdMob-Kennungen ersetzt und die Einwilligungs- und Datensicherheitsangaben geprüft werden.
+
+Die festen Google-Testwerte sind:
+
+- Test-App-ID: `ca-app-pub-3940256099942544~3347511713`
+- Test-Banner-AdUnit-ID: `ca-app-pub-3940256099942544/6300978111`
+
+Für diese Testwerte ist keine eigene AdMob-Registrierung erforderlich. Eigene Produktionswerte werden in der AdMob-Konsole unter **Apps** sowie **Werbeeinheiten → Banner** erstellt. Testanzeigen dürfen während der Entwicklung nicht angeklickt werden.
 
 ## GitHub Pages
 
 Die Datenschutzerklärung ist mit folgender URL erreichbar:
-https://danielkneidinger95.github.io/AppPrivacyPolicy/TankkostenTracker/
+
+Die konkrete Veröffentlichungs-URL für Tankkosten Tracker wird nach der Einrichtung der GitHub-Pages-Seite ergänzt.
